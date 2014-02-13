@@ -1,0 +1,14 @@
+<group>
+	<Crop_Left>0</Crop_Left>
+	<Crop_Right>1</Crop_Right>
+	<Crop_Top>0</Crop_Top>
+	<Crop_Bottom>1</Crop_Bottom>
+	<Crop_Near>255</Crop_Near>
+	<Crop_Far>240</Crop_Far>
+	<Track_Min_Area_Radius>1</Track_Min_Area_Radius>
+	<Track_Max_Area_Radius>100</Track_Max_Area_Radius>
+	<Track_Threshold>15</Track_Threshold>
+	<Frames_of_persistence>15</Frames_of_persistence>
+	<Pixels_per_frame>32</Pixels_per_frame>
+<group/>
+</group>
